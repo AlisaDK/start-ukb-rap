@@ -14,5 +14,7 @@ Imports:
 Encoding: UTF-8
 Depends: 
     tidyverse
-Remotes:  
+Remotes: 
     steno-aarhus/ukbAid
+URL: https://github.com/AlisaDK/start-ukb-rap
+BugReports: https://github.com/AlisaDK/start-ukb-rap/issues
