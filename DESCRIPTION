@@ -2,7 +2,17 @@ Package: start-ukb-rap
 Type: Project
 Version: 0.0.1
 Imports:
+    gert,
+    here,
     knitr,
+    remotes,
+    renv,
     rmarkdown,
-    distill
+    targets,
+    ukbAid,
+    usethis
 Encoding: UTF-8
+Depends: 
+    tidyverse
+Remotes:  
+    steno-aarhus/ukbAid
